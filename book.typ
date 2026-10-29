@@ -167,10 +167,12 @@
 #include "chapters/06-sharpe.typ"
 #include "chapters/07-capm.typ"
 #include "chapters/08-cap-weighted.typ"
-#include "chapters/09-conclusion.typ"
-#include "chapters/10-appendix-math.typ"
-#include "chapters/11-appendix-probability.typ"
-#include "chapters/12-appendix-vnm.typ"
+#include "chapters/09-critique.typ"
+#include "chapters/10-apt.typ"
+#include "chapters/11-conclusion.typ"
+#include "chapters/12-appendix-math.typ"
+#include "chapters/13-appendix-probability.typ"
+#include "chapters/14-appendix-vnm.typ"
 
 // Index, built from term metadata registered at first occurrences,
 // sorted by reading (kana).
